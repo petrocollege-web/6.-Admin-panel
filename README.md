@@ -3,7 +3,7 @@
 #### Шаг 1: Создание контроллера AdminController
 
 1. Копируем любой контроллер и переименовываем его в `AdminController.php`:
-2. Добавим функцию `beforeAction` - beforeAction выполняется каждый раз при отправке запроса на /admin
+2. Добавим функцию `beforeAction` - beforeAction выполняется каждый раз при отправке запроса на /admin. **ВАЖНО!** Структуру beforeAction можно найти в Zeal
    
 ```php
 class AdminController extends Controller
