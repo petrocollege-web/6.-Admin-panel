@@ -93,3 +93,8 @@ $this->title = 'Админ-панель';
  **Проверка прав**:
    - Проверка в `beforeAction`
    - Проверка по role_id 
+
+
+
+### [Следующая лекция](https://github.com/petrocollege-web/7.-Menu-and-content)
+### [Предыдущая лекция](https://github.com/petrocollege-web/5.-Login/)
